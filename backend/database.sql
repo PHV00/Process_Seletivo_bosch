@@ -6,7 +6,7 @@ CREATE TABLE reserve(
     responsibleName nvarchar(100) not null,
     DateTimeStart datetime2 not null ,
     hourDuration int not null check (hourDuration > 0 and hourDuration <= 8),
-    check (resourceType in ('room','vehicle','equipment')),
+    check (resourceType in ( )),
     check (
         cast(DateTimeStart as time) >= '08:00:00'
         and

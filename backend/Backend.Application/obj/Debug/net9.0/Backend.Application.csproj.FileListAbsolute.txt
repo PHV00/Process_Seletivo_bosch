@@ -1,0 +1,16 @@
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\bin\Debug\net9.0\Backend.Application.deps.json
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\bin\Debug\net9.0\Backend.Application.dll
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\bin\Debug\net9.0\Backend.Application.pdb
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\bin\Debug\net9.0\Backend.Domain.dll
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\bin\Debug\net9.0\Backend.Domain.pdb
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend.Application.csproj.AssemblyReference.cache
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend.Application.AssemblyInfoInputs.cache
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend.Application.AssemblyInfo.cs
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend.Application.sourcelink.json
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend..65AE5655.Up2Date
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend.Application.dll
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\refint\Backend.Application.dll
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\Backend.Application.pdb
+C:\Users\vitor\processo_seletivo\Process_Seletivo_bosch\backend\Backend.Application\obj\Debug\net9.0\ref\Backend.Application.dll

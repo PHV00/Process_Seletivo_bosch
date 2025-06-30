@@ -1,6 +1,30 @@
 @Backend.API_HostAddress = http://localhost:5118
 
-GET {{Backend.API_HostAddress}}/weatherforecast/
+###
+GET {{Backend.API_HostAddress}}/api/reserve
 Accept: application/json
+###
 
+GET http://localhost:5118/api/reserve
+Accept: application/json
+###
+
+GET http://localhost:5118/api/reserve/teste-connection-db
+Accept: application/json
+###
+
+GET http://localhost:5118/api/reserve/getAll
+Accept: application/json
+###
+
+GET http://localhost:5118/api/reserve/getAll
+Accept: application/json
+###
+
+GET http://localhost:5118/api/reserve/getAll2
+Accept: application/json
+###
+
+GET https://localhost:5118/api/reserve/getAll2
+Accept: application/json
 ###

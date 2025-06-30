@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Security.AccessControl;
 
-namespace Backend.Domain.Reserve
+namespace Backend.Domain
 {
-    internal class Reserve
+    public class Reserve : BaseEntity<int>
     {
+        public string ResourceType;
+
+        public string ResponsibleName;
+
+        public DateTime DateTimeStart;
+
+        public int HourDuration;
     }
 }

@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "Backend.Api.Controllers.ReserveController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Reserve/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Api.Controllers.ReserveController",
+    "Method": "GetAll2Async",
+    "RelativePath": "api/Reserve/getAll2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Api.Controllers.ReserveController",
+    "Method": "TestarConexao",
+    "RelativePath": "api/Reserve/teste-connection-db",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

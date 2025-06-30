@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vitor\\processo_seletivo\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F412CC4-3B48-4B73-B74D-45FA4A394D29}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\vitor\\processo_seletivo\\backend\\backend.domain\\reserve\\reserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F412CC4-3B48-4B73-B74D-45FA4A394D29}|Backend.Domain\\Backend.Domain.csproj|c:\\users\\vitor\\processo_seletivo\\process_seletivo_bosch\\backend\\backend.domain\\reserve\\reserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F412CC4-3B48-4B73-B74D-45FA4A394D29}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\reserve\\reserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01331DA1-8783-492F-A1C6-3088B88D6D96}|Backend.Infrastructure\\Backend.Infrastructure.csproj|c:\\users\\vitor\\processo_seletivo\\process_seletivo_bosch\\backend\\backend.infrastructure\\reserve\\mapping\\reserveclassmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01331DA1-8783-492F-A1C6-3088B88D6D96}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\reserve\\mapping\\reserveclassmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D11C8-7CB5-49FF-8882-0895738860C0}|Backend.API\\Backend.API.csproj|c:\\users\\vitor\\processo_seletivo\\process_seletivo_bosch\\backend\\backend.api\\controllers\\reservecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D11C8-7CB5-49FF-8882-0895738860C0}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\controllers\\reservecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01331DA1-8783-492F-A1C6-3088B88D6D96}|Backend.Infrastructure\\Backend.Infrastructure.csproj|c:\\users\\vitor\\processo_seletivo\\process_seletivo_bosch\\backend\\backend.infrastructure\\baserepository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01331DA1-8783-492F-A1C6-3088B88D6D96}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\baserepository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01331DA1-8783-492F-A1C6-3088B88D6D96}|Backend.Infrastructure\\Backend.Infrastructure.csproj|c:\\users\\vitor\\processo_seletivo\\process_seletivo_bosch\\backend\\backend.infrastructure\\reserve\\repositories\\reserverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01331DA1-8783-492F-A1C6-3088B88D6D96}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\reserve\\repositories\\reserverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01331DA1-8783-492F-A1C6-3088B88D6D96}|Backend.Infrastructure\\Backend.Infrastructure.csproj|c:\\users\\vitor\\processo_seletivo\\process_seletivo_bosch\\backend\\backend.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01331DA1-8783-492F-A1C6-3088B88D6D96}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D11C8-7CB5-49FF-8882-0895738860C0}|Backend.API\\Backend.API.csproj|c:\\users\\vitor\\processo_seletivo\\process_seletivo_bosch\\backend\\backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF4D11C8-7CB5-49FF-8882-0895738860C0}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D11C8-7CB5-49FF-8882-0895738860C0}|Backend.API\\Backend.API.csproj|c:\\users\\vitor\\processo_seletivo\\process_seletivo_bosch\\backend\\backend.api\\backend.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BF4D11C8-7CB5-49FF-8882-0895738860C0}|Backend.API\\Backend.API.csproj|solutionrelative:backend.api\\backend.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Backend.API.http",
+              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.API\\Backend.API.http",
+              "RelativeDocumentMoniker": "Backend.API\\Backend.API.http",
+              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.API\\Backend.API.http",
+              "RelativeToolTip": "Backend.API\\Backend.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-29T16:48:42.714Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReserveController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.API\\Controllers\\ReserveController.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Controllers\\ReserveController.cs",
+              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.API\\Controllers\\ReserveController.cs",
+              "RelativeToolTip": "Backend.API\\Controllers\\ReserveController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:06:45.399Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Infrastructure\\BaseRepository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\BaseRepository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Infrastructure\\BaseRepository\\BaseRepository.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\BaseRepository\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:22:45.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReserveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Infrastructure\\Reserve\\Repositories\\ReserveRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Reserve\\Repositories\\ReserveRepository.cs",
+              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Infrastructure\\Reserve\\Repositories\\ReserveRepository.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Reserve\\Repositories\\ReserveRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:16:54.895Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReserveClassMap.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Infrastructure\\Reserve\\Mapping\\ReserveClassMap.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Reserve\\Mapping\\ReserveClassMap.cs",
+              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Infrastructure\\Reserve\\Mapping\\ReserveClassMap.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Reserve\\Mapping\\ReserveClassMap.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:47:16.753Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Reserve.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\backend\\Backend.Domain\\Reserve\\Reserve.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Domain\\Reserve\\Reserve.cs",
               "RelativeDocumentMoniker": "Backend.Domain\\Reserve\\Reserve.cs",
-              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\backend\\Backend.Domain\\Reserve\\Reserve.cs",
+              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Domain\\Reserve\\Reserve.cs",
               "RelativeToolTip": "Backend.Domain\\Reserve\\Reserve.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T17:48:06.174Z",
+              "WhenOpened": "2025-06-29T23:37:43.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.API\\appsettings.json",
+              "RelativeToolTip": "Backend.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T21:20:27.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Infrastructure\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\vitor\\processo_seletivo\\Process_Seletivo_bosch\\backend\\Backend.Infrastructure\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:20:09.51Z",
               "EditorCaption": ""
             }
           ]
